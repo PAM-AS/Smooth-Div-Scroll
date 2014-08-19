@@ -1,0 +1,21 @@
+{
+  "name": "Smooth-Div-Scroll",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tkahn/Smooth-Div-Scroll",
+  "authors": [
+    "tkahn thomas@tkahn.se"
+  ],
+  "description": "Smooth Div Scroll is a jQuery plugin that scrolls content horizontally left or right. You'll find all the documentation you need at smoothdivscroll.com.",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
